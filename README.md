@@ -4,7 +4,8 @@ This is the repository to create the graphics used in the slides for my seminar 
 or in the noted repository below; if it is adapted from a paper, then the link to the appropriate citation is provided.
 
 ## Main paper discussed
-Chesebro, AG, Mujica-Parodi, LR, Weistuch, C. Ion gradient-driven bifurcations of a multi-scale neuronal model. *Chaos, Solitons, and Fractals.* (2023); 167:113120. https://content.api.getguru.com/files/view/42352b6f-8bec-4eb6-b0f7-d043bfa90d6a
+Chesebro, AG, Mujica-Parodi, LR, Weistuch, C. Ion gradient-driven bifurcations of a multi-scale neuronal model. *Chaos, Solitons, and Fractals.* (2023); 167:113120. https://content.api.getguru.com/files/view/42352b6f-8bec-4eb6-b0f7-d043bfa90d6a.
+
 Code to generate Figures 2-5 for this figure can be found at: https://github.com/lcneuro/larter-breakspear-bifurcation.
 
 ### Breakdown of slide citations:
