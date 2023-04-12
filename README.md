@@ -14,7 +14,7 @@ Code to generate Figures 2-5 for this figure can be found at: https://github.com
 - **Slides 9-10:** Taken from my talk at the Gordon Research Seminar on Stochastic Physics in Biology. Repository to generate these images here: https://github.com/agchesebro/stochastic-physics-biology-2023. Note the Neimark-Sacker bifurcations require the repository from Chesebro et al. to work.
 - **Slides 11-14:** Taken from Chesebro et al. Repository linked above.
 - **Slide 17:** Antal et al. (2023). arXiv preprint: https://arxiv.org/abs/2303.13746
-- **Slide 18:** van Nieuwenhuizen et al. (2023). Preprint coming soon - will be linked here when available!
+- **Slide 18:** Mujica-Parodi et al. *PNAS* (2020). https://www.pnas.org/doi/10.1073/pnas.1913042117. van Nieuwenhuizen et al. (2023). Preprint coming soon - will be linked here when available!
 - **Slides 19-20, 22:** Transcriptomic maps derived using the tool from Gryglewski et al. *NeuroImage.* (2018). https://www.sciencedirect.com/science/article/abs/pii/S1053811918303884?via%3Dihub
 - **Slide 20:** Additional graphics from the Allen Human Brain Atlas: https://human.brain-map.org
 - **Slide 21:** Image adapted from Adapted from Hansen et al. *Nat. Neurosci.* (2022). https://www.nature.com/articles/s41593-022-01186-3
