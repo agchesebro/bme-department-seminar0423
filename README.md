@@ -18,7 +18,7 @@ Code to generate Figures 2-5 for this paper can be found at: https://github.com/
 - **Slide 18:** 
    - Ma et al. *J. Neurosci.* (2007). https://www.jneurosci.org/content/27/14/3618 
    - Mujica-Parodi et al. *PNAS* (2020). https://www.pnas.org/doi/10.1073/pnas.1913042117. 
-   - van Nieuwenhuizen et al. (2023). Preprint coming soon - will be linked here when available!
+   - van Nieuwenhuizen et al. (2023). https://www.biorxiv.org/content/10.1101/2023.05.10.540257v1.
 - **Slides 19-20, 22:** Transcriptomic maps derived using the tool from Gryglewski et al. *NeuroImage.* (2018). https://www.sciencedirect.com/science/article/abs/pii/S1053811918303884?via%3Dihub
 - **Slide 20:** Additional graphics from the Allen Human Brain Atlas: https://human.brain-map.org
 - **Slide 21:** Image adapted from Adapted from Hansen et al. *Nat. Neurosci.* (2022). https://www.nature.com/articles/s41593-022-01186-3
